@@ -1,6 +1,8 @@
 package com.example.konkaniapp;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -29,6 +31,7 @@ public class ProfilePageActivity extends AppCompatActivity {
 
 
         btnSave.setOnClickListener(new View.OnClickListener() {
+            @SuppressLint("SetTextI18n")
             @Override
             public void onClick(View view) {
                 if (!isSaved) {
@@ -70,6 +73,7 @@ public class ProfilePageActivity extends AppCompatActivity {
         });
 
         btnCancel.setOnClickListener(new View.OnClickListener() {
+            @SuppressLint("SetTextI18n")
             @Override
             public void onClick(View view) {
                 etName.setText("");
