@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Konkani App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="history1">HISTORY</string>
+    <string name="profile1">PROFILE</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about_us">About Us</string>
+    <string name="aboutus">Apali Bhas is a community-driven app dedicated to preserving and promoting the rich tapestry of Konkani dialects spoken across Goa and the Konkan coast.\n\nOur mission is to empower users to detect, understand, and celebrate the linguistic diversity of Konkani — from village idioms to coastal expressions.\n\nThis app is built with love, technology, and a deep respect for our mother tongue. Let’s keep our language alive — one word at a time.</string>
+    <string name="rate_apali_bhas">Rate Apali Bhas</string>
+    <string name="leave_your_feedback_optional">Leave your feedback (optional)</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="region">Region</string>
+    <string name="age">Age</string>
+    <string name="full_name">Full Name</string>
+    <string name="profile3">Profile</string>
+    <!-- ... other strings ... -->
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="privacy_policy_content">
+        Your privacy is important to us. It is our policy to respect your privacy regarding any
+        information we may collect from you across our app.\n\nWe only ask for personal information
+        when we truly need it to provide a service to you. We collect it by fair and lawful means,
+        with your knowledge and consent. We also let you know why we’re collecting it and how it
+        will be used.\n\nWe only retain collected information for as long as necessary to provide
+        you with your requested service. What data we store, we’ll protect within commercially
+        acceptable means to prevent loss and theft, as well as unauthorized access, disclosure,
+        copying, use or modification.
+    </string>
+</resources>
